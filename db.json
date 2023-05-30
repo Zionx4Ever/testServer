@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fullname": "Reinaldo Zambrano",
+      "fi": 'V19864479',
+      "phone": "04125320705",
+      "email": 'example@gmail.com'
+    }
+  ],
+  "profile": {
+    "name": "TotalApp"
+  }
+}
